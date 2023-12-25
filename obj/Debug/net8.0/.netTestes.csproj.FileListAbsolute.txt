@@ -1,0 +1,15 @@
+C:\Users\Vinícius\Desktop\.netTestes\bin\Debug\net8.0\.netTestes.exe
+C:\Users\Vinícius\Desktop\.netTestes\bin\Debug\net8.0\.netTestes.deps.json
+C:\Users\Vinícius\Desktop\.netTestes\bin\Debug\net8.0\.netTestes.runtimeconfig.json
+C:\Users\Vinícius\Desktop\.netTestes\bin\Debug\net8.0\.netTestes.dll
+C:\Users\Vinícius\Desktop\.netTestes\bin\Debug\net8.0\.netTestes.pdb
+C:\Users\Vinícius\Desktop\.netTestes\obj\Debug\net8.0\.netTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius\Desktop\.netTestes\obj\Debug\net8.0\.netTestes.AssemblyInfoInputs.cache
+C:\Users\Vinícius\Desktop\.netTestes\obj\Debug\net8.0\.netTestes.AssemblyInfo.cs
+C:\Users\Vinícius\Desktop\.netTestes\obj\Debug\net8.0\.netTestes.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\Desktop\.netTestes\obj\Debug\net8.0\.netTestes.sourcelink.json
+C:\Users\Vinícius\Desktop\.netTestes\obj\Debug\net8.0\.netTestes.dll
+C:\Users\Vinícius\Desktop\.netTestes\obj\Debug\net8.0\refint\.netTestes.dll
+C:\Users\Vinícius\Desktop\.netTestes\obj\Debug\net8.0\.netTestes.pdb
+C:\Users\Vinícius\Desktop\.netTestes\obj\Debug\net8.0\.netTestes.genruntimeconfig.cache
+C:\Users\Vinícius\Desktop\.netTestes\obj\Debug\net8.0\ref\.netTestes.dll
